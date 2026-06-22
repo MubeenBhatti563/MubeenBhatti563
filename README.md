@@ -1,103 +1,165 @@
-# 👋 Hi, I'm Muhammad Mubeen
+<div align="center">
 
-🚀 Software Engineering student focused on building modern full-stack web applications using **TypeScript**, **Next.js**, and **NestJS**.
+# Muhammad Mubeen
 
----
+**Software Engineering Student · Full-Stack Developer in Progress**
 
-## 🧠 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+TypeScript+%26+Next.js;Engineering+APIs+with+NestJS+%2B+Prisma;Learning+System+Design%2C+One+Project+at+a+Time;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-I am a passionate software engineering student focused on building scalable and maintainable web applications. My main focus is mastering the **TypeScript ecosystem** and transitioning into a full-stack developer role.
+<br/>
 
-I enjoy understanding how systems work under the hood and improving my skills through real-world projects.
+[![GitHub](https://img.shields.io/badge/GitHub-MubeenBhatti563-181717?style=flat-square&logo=github)](https://github.com/MubeenBhatti563)
+![Profile Views](https://komarev.com/ghpvc/?username=MubeenBhatti563&style=flat-square&color=2E9EF7&label=Profile+Views)
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br/>
 
-### Frontend
-- React.js
-- Next.js (learning & building)
-- TypeScript / JavaScript
-- Redux Toolkit
-- Context API
-- HTML5 / CSS3
+## About Me
 
-### Backend (Focus Area)
-- NestJS (learning)
-- Prisma ORM
-- REST APIs
-- PostgreSQL (learning)
+I'm a software engineering student building a strong foundation in the **TypeScript ecosystem**, with the goal of becoming a proficient full-stack developer. My current focus is shifting from frontend-heavy work toward backend architecture — designing APIs, modeling data, and understanding how systems hold together in production, not just in a tutorial.
 
-### Tools
-- Git & GitHub
-- Vite
-- Postman
-- Docker (learning)
-- VS Code
+I learn best by building. Rather than treating courses as the finish line, I use them as a starting point and extend each project until I understand *why* it works, not just *that* it works.
 
----
+<br/>
 
-## 🚀 Featured Projects
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css" />
+
+</td>
+<td valign="top" width="33%">
+
+**Backend** *(focus area)*
+<br/>
+<img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres" />
+
+</td>
+<td valign="top" width="33%">
+
+**Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vite,postman,docker,vscode" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🌍 WorldWise
-Travel tracking app with authentication, routing, geolocation, and state management.
+Travel-tracking application featuring authentication, client-side routing, geolocation, and centralized state management.
+
+`React` `Context API` `Geolocation API` `React Router`
+
+</td>
+<td width="50%">
 
 ### 🍕 Fast React Pizza
-Pizza ordering app with cart system and React Router data APIs.
+Pizza-ordering platform built around a persistent cart system and React Router's data loading and form-action APIs.
+
+`React` `Redux Toolkit` `React Router (Data APIs)`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🧠 React Quiz
-Interactive quiz app using Context API, hooks, and timers.
+Interactive quiz engine with timed questions, score tracking, and state handled through hooks and the Context API.
 
-### 🍿 UsePopCorn
-Movie search and watchlist app using APIs and local storage.
+`React` `Context API` `Custom Hooks`
 
-### 🌤️ Classy Weather App
-Weather app using external APIs and React class components.
+</td>
+<td width="50%">
 
----
+### 🍿 usePopcorn
+Movie search and watchlist tool with external API integration and persistent state via local storage.
 
-## 📈 GitHub Stats
+`React` `REST API` `Local Storage`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MubeenBhatti563&show_icons=true&theme=tokyonight&hide_border=true)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🌤️ Classy Weather
+Weather lookup app built with React class components, demonstrating lifecycle methods and class-based state.
 
-## 🔥 Most Used Languages
+`React (Class Components)` `External Weather API`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenBhatti563&layout=compact&theme=tokyonight&hide_border=true)
+</td>
+<td width="50%">
 
----
+<br/>
 
-## 📊 GitHub Streak
+📂 More projects on my [repositories page](https://github.com/MubeenBhatti563?tab=repositories) — actively adding new full-stack builds.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MubeenBhatti563&theme=tokyonight&hide_border=true)
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📈 Current Focus
+## GitHub Analytics
 
-- Mastering **Next.js (App Router, SSR, API Routes)**
-- Building backend systems with **NestJS**
-- Learning **Prisma + PostgreSQL**
-- Improving system design fundamentals
-- Building production-grade full-stack apps
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MubeenBhatti563&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenBhatti563&layout=compact&theme=tokyonight&hide_border=true" />
 
-## 🎯 Goals
+<br/>
 
-- Become a strong **full-stack TypeScript developer**
-- Build scalable production-ready applications
-- Master Next.js + NestJS architecture
-- Contribute to open-source projects
-- Land a software engineering role
+<img src="https://streak-stats.demolab.com?user=MubeenBhatti563&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-## 📫 Connect With Me
+<br/>
 
-- GitHub: [MubeenBhatti563](https://github.com/MubeenBhatti563)
+## Current Focus
 
----
+- 🧩 Mastering **Next.js** — App Router, server-side rendering, and Route Handlers
+- ⚙️ Building backend services with **NestJS**
+- 🗄️ Learning **Prisma + PostgreSQL** for relational data modeling
+- 📐 Strengthening **system design** fundamentals
+- 🏗️ Shipping production-style full-stack applications, end to end
 
-⭐ Always learning, always building.
+<br/>
+
+## Goals
+
+- Become a proficient **full-stack TypeScript developer**
+- Design and ship **scalable, production-ready** applications
+- Build fluency in **Next.js + NestJS** architecture patterns
+- Contribute meaningfully to **open-source** projects
+- Earn a **software engineering** role where I can keep growing
+
+<br/>
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MubeenBhatti563)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⭐ **Always learning, always building.**
+
+</div>
