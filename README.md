@@ -1,165 +1,228 @@
-<div align="center">
+<!-- HEADER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1a1a2e&height=200&section=header&text=Muhammad%20Mubeen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=18"/>
+</p>
 
-# Muhammad Mubeen
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+TypeScript+%26+Next.js;Engineering+APIs+with+NestJS+%2B+Prisma;Learning+System+Design%2C+One+Project+at+a+Time;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
-**Software Engineering Student · Full-Stack Developer in Progress**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+TypeScript+%26+Next.js;Engineering+APIs+with+NestJS+%2B+Prisma;Learning+System+Design%2C+One+Project+at+a+Time;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-MubeenBhatti563-181717?style=flat-square&logo=github)](https://github.com/MubeenBhatti563)
-![Profile Views](https://komarev.com/ghpvc/?username=MubeenBhatti563&style=flat-square&color=2E9EF7&label=Profile+Views)
-
-</div>
-
-<br/>
-
-## About Me
-
-I'm a software engineering student building a strong foundation in the **TypeScript ecosystem**, with the goal of becoming a proficient full-stack developer. My current focus is shifting from frontend-heavy work toward backend architecture — designing APIs, modeling data, and understanding how systems hold together in production, not just in a tutorial.
-
-I learn best by building. Rather than treating courses as the finish line, I use them as a starting point and extend each project until I understand *why* it works, not just *that* it works.
+<!-- BADGES ROW -->
+<p align="center">
+  <a href="https://github.com/MubeenBhatti563">
+    <img src="https://img.shields.io/badge/GitHub-MubeenBhatti563-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MubeenBhatti563&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/MubeenBhatti563?style=for-the-badge&color=2E9EF7&labelColor=1a1a2e&logo=github" />
+</p>
 
 <br/>
 
-## Tech Stack
+<!-- ABOUT ME WITH ANIMATED ICON -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> 
+  About Me
+</h2>
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<p align="center">
+  I'm a software engineering student building a strong foundation in the <strong>TypeScript ecosystem</strong>, with the goal of becoming a proficient full-stack developer. My current focus is shifting from frontend-heavy work toward <strong>backend architecture</strong> — designing APIs, modeling data, and understanding how systems hold together in production, not just in a tutorial.
+</p>
 
-**Frontend**
+<p align="center">
+  <em>I learn best by building. Rather than treating courses as the finish line, I use them as a starting point and extend each project until I understand <strong>why</strong> it works, not just <strong>that</strong> it works.</em>
+</p>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css" />
 
-</td>
-<td valign="top" width="33%">
+<!-- TECH STACK WITH ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Backend** *(focus area)*
-<br/>
-<img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres" />
+<h2 align="center">⚡ Tech Stack</h2>
 
-</td>
-<td valign="top" width="33%">
-
-**Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vite,postman,docker,vscode" />
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind" />
+    </td>
+    <td align="center" width="300">
+      <h3>Backend <sup><em>(focus area)</em></sup></h3>
+      <img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres,nodejs,express" />
+    </td>
+    <td align="center" width="300">
+      <h3>Tooling</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vite,postman,docker,vscode,figma" />
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌍 WorldWise
-Travel-tracking application featuring authentication, client-side routing, geolocation, and centralized state management.
-
-`React` `Context API` `Geolocation API` `React Router`
-
-</td>
-<td width="50%">
-
-### 🍕 Fast React Pizza
-Pizza-ordering platform built around a persistent cart system and React Router's data loading and form-action APIs.
-
-`React` `Redux Toolkit` `React Router (Data APIs)`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 React Quiz
-Interactive quiz engine with timed questions, score tracking, and state handled through hooks and the Context API.
-
-`React` `Context API` `Custom Hooks`
-
-</td>
-<td width="50%">
-
-### 🍿 usePopcorn
-Movie search and watchlist tool with external API integration and persistent state via local storage.
-
-`React` `REST API` `Local Storage`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌤️ Classy Weather
-Weather lookup app built with React class components, demonstrating lifecycle methods and class-based state.
-
-`React (Class Components)` `External Weather API`
-
-</td>
-<td width="50%">
+<!-- GITHUB TROPHIES -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MubeenBhatti563&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
 
 <br/>
 
-📂 More projects on my [repositories page](https://github.com/MubeenBhatti563?tab=repositories) — actively adding new full-stack builds.
+<!-- FEATURED PROJECTS -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</td>
-</tr>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌍 WorldWise</h3>
+      <p align="center">
+        Travel-tracking application featuring authentication, client-side routing, geolocation, and centralized state management.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍕 Fast React Pizza</h3>
+      <p align="center">
+        Pizza-ordering platform built around a persistent cart system and React Router's data loading and form-action APIs.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 React Quiz</h3>
+      <p align="center">
+        Interactive quiz engine with timed questions, score tracking, and state handled through hooks and the Context API.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Custom_Hooks-FF6B6B?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍿 usePopcorn</h3>
+      <p align="center">
+        Movie search and watchlist tool with external API integration and persistent state via local storage.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Local_Storage-4285F4?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌤️ Classy Weather</h3>
+      <p align="center">
+        Weather lookup app built with React class components, demonstrating lifecycle methods and class-based state.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_(Class)-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Weather_API-FF6B6B?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br/><br/>
+      <h3>📂 More Projects</h3>
+      <p>Check out my <a href="https://github.com/MubeenBhatti563?tab=repositories">repositories page</a></p>
+      <p><em>Actively adding new full-stack builds</em></p>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-## GitHub Analytics
+<!-- GITHUB ANALYTICS -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MubeenBhatti563&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenBhatti563&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MubeenBhatti563&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenBhatti563&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MubeenBhatti563&theme=tokyonight&hide_border=true&fire=FF6B6B" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=MubeenBhatti563&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-## Current Focus
-
-- 🧩 Mastering **Next.js** — App Router, server-side rendering, and Route Handlers
-- ⚙️ Building backend services with **NestJS**
-- 🗄️ Learning **Prisma + PostgreSQL** for relational data modeling
-- 📐 Strengthening **system design** fundamentals
-- 🏗️ Shipping production-style full-stack applications, end to end
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MubeenBhatti563&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 <br/>
 
-## Goals
-
-- Become a proficient **full-stack TypeScript developer**
-- Design and ship **scalable, production-ready** applications
-- Build fluency in **Next.js + NestJS** architecture patterns
-- Contribute meaningfully to **open-source** projects
-- Earn a **software engineering** role where I can keep growing
-
-<br/>
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MubeenBhatti563)
-
-</div>
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MubeenBhatti563/MubeenBhatti563/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MubeenBhatti563/MubeenBhatti563/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MubeenBhatti563/MubeenBhatti563/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <br/>
 
-<div align="center">
+<!-- CURRENT FOCUS -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-⭐ **Always learning, always building.**
+<h2 align="center">🎯 Current Focus</h2>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Mastering+Next.js+App+Router+%26+Server+Components;Building+backend+services+with+NestJS;Learning+Prisma+%2B+PostgreSQL+data+modeling;Strengthening+system+design+fundamentals;Shipping+production-style+full-stack+applications" />
+</p>
+
+<br/>
+
+<!-- GOALS -->
+<h2 align="center">🎯 Goals</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Become%20a%20proficient%20full--stack%20TypeScript%20developer-2E9EF7?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Design%20and%20ship%20scalable%2C%20production--ready%20applications-2E9EF7?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/Build%20fluency%20in%20Next.js%20%2B%20NestJS%20architecture%20patterns-2E9EF7?style=for-the-badge&logo=next.js&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Contribute%20meaningfully%20to%20open--source%20projects-2E9EF7?style=for-the-badge&logo=open-source-initiative&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Earn%20a%20software%20engineering%20role%20where%20I%20can%20keep%20growing-2E9EF7?style=for-the-badge" />
+</p>
+
+<br/>
+
+<!-- CONNECT -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/MubeenBhatti563">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mubeeniqbal563@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/muhammad-mubeen-64633231a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1a1a2e&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=2000&color=2E9EF7&center=true&vCenter=true&width=300&lines=⭐+Always+learning%2C+always+building." />
+</p>
